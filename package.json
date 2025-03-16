@@ -1,0 +1,19 @@
+{
+  "name": "chaibackend",
+  "version": "1.0.0",
+  "description": "i love kanchan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "author": "pranav bhoir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
